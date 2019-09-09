@@ -1,0 +1,13 @@
+{
+  "name": "fortKnight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davisgreg1/fortKnight.git",
+  "author": "Andrew Usher <andrewusher00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.3",
+    "esm": "^3.2.25",
+    "graphql": "^14.5.4"
+  }
+}
