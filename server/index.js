@@ -11,16 +11,41 @@ const typeDefs = gql`
     time: Int
   }
 
+  type WeaponStats {
+    dps: String,
+    hit_body: String,
+    hit_head: String,
+    firerate: String,
+    magazinesize: String,
+    reloadtime: String,
+    ammocost: String
+  }
+  
+  type WeaponItem {
+    identifier: String,
+    name: String,
+    rarity: String,
+    vaulted: Int,
+    image: String,
+    stats: WeaponStats
+  }
+
   type Query {
     battleRoyaleNews: [NewsItem],
-    saveTheWorldNews: [NewsItem]
+    saveTheWorldNews: [NewsItem],
+    getAllWeapons: [WeaponItem]
+
   }
 `
 
 const resolvers = {
   Query: {
     battleRoyaleNews: async (_source, _args, { dataSources }) => dataSources.FortniteAPI.getBattleRoyaleNews(),
-    saveTheWorldNews: async (_source, _args, { dataSources }) => dataSources.FortniteAPI.getSaveTheWorldNews()
+
+    saveTheWorldNews: async (_source, _args, { dataSources }) => dataSources.FortniteAPI.getSaveTheWorldNews(),
+    
+    getAllWeapons: async (_source, _args, { dataSources }) => 
+    dataSources.FortniteAPI.getAllWeapons()
   }
 }
 

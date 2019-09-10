@@ -2,7 +2,8 @@ const { RESTDataSource } = require('apollo-datasource-rest')
 
 const API_ENDPOINTS = {
   BR_NEWS: 'br_motd/get',
-  STW_NEWS: 'stw_motd/get'
+  STW_NEWS: 'stw_motd/get',
+  WEAPONS: 'weapons/get'
 }
 
 export class FortniteAPI extends RESTDataSource {
@@ -32,6 +33,18 @@ export class FortniteAPI extends RESTDataSource {
       image,
       time,
       title
+    }))
+  }
+
+  async getAllWeapons () {
+    const { data } = await this.get(API_ENDPOINTS.WEAPONS)
+    return data.entries.map(({ identifier, name, rarity, image, vaulted, stats }) => ({
+      identifier,
+      name,
+      rarity,
+      image,
+      vaulted,
+      stats
     }))
   }
 }
