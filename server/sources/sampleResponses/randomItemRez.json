@@ -1,0 +1,158 @@
+{
+  "data": {
+      "backpack": {
+          "itemid": "f99822d-019ba1b-3eec7e1-018daa1",
+          "name": "Tahna",
+          "description": "",
+          "type": "backpack",
+          "rarity": "rare",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/backpack/f04853bec91a0528ec02826c0e8b0577.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/f99822d-019ba1b-3eec7e1-018daa1.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/f99822d-019ba1b-3eec7e1-018daa1/item.png"
+          }
+      },
+      "outfit": {
+          "itemid": "4e73424-9d5000d-c6c1ac3-b043f9d",
+          "name": "Dare",
+          "description": "Dare to dream.",
+          "type": "outfit",
+          "rarity": "rare",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/outfit/013c45b0b4a364000cb8d8b3e8064f6e.png",
+              "featured": "https://fortnite-public-files.theapinetwork.com/featured/4e73424-9d5000d-c6c1ac3-b043f9d.png",
+              "background": "https://fortnite-public-files.theapinetwork.com/image/4e73424-9d5000d-c6c1ac3-b043f9d.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/4e73424-9d5000d-c6c1ac3-b043f9d/item.png"
+          }
+      },
+      "pickaxe": {
+          "itemid": "4909c1f-370b915-a1c0c31-9c85cc1",
+          "name": "Axecalibur",
+          "description": "",
+          "type": "pickaxe",
+          "rarity": "rare",
+          "costmeticId": "AthenaPickaxe:pickaxe_id_011_medieval",
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/pickaxe/f62e008602e32d486fea33fc5e4c4f70.png",
+              "featured": "https://fortnite-public-files.theapinetwork.com/featured/4909c1f-370b915-a1c0c31-9c85cc1.png",
+              "background": "https://fortnite-public-files.theapinetwork.com/image/4909c1f-370b915-a1c0c31-9c85cc1.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/4909c1f-370b915-a1c0c31-9c85cc1/item.png"
+          }
+      },
+      "emote": {
+          "itemid": "0add7aa-f3225d4-8e12143-753c789",
+          "name": "Llamacadabra",
+          "description": "Don't forget the magic word.",
+          "type": "emote",
+          "rarity": "epic",
+          "costmeticId": "AthenaDance:eid_wizard",
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/emote/962a0fc1ccef5df6760f6e061a216b23.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/0add7aa-f3225d4-8e12143-753c789.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/0add7aa-f3225d4-8e12143-753c789/item.png"
+          }
+      },
+      "skydive": {
+          "itemid": "f70fc1c-dd39e1c-e705129-f896366",
+          "name": "Bubbles",
+          "description": null,
+          "type": "skydive",
+          "rarity": "rare",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/skydive/f00ede6efb63af9896bf0eb0c72a0381.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/f70fc1c-dd39e1c-e705129-f896366.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/f70fc1c-dd39e1c-e705129-f896366/item.png"
+          }
+      },
+      "pet": {
+          "itemid": "1f4190d-b677f80-5216e32-10208c4",
+          "name": "Camo",
+          "description": null,
+          "type": "pet",
+          "rarity": "epic",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/pet/583dee64d72abf50cf687bec11214c09.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/1f4190d-b677f80-5216e32-10208c4.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/1f4190d-b677f80-5216e32-10208c4/item.png"
+          }
+      },
+      "bundle": {
+          "itemid": "025f7a7-ad76dcd-afe76e9-49af03c",
+          "name": "Star Power",
+          "description": "",
+          "type": "bundle",
+          "rarity": "rare",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/bundle/c3481690cbf8043bf6f77a800c3a5645.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/025f7a7-ad76dcd-afe76e9-49af03c.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/025f7a7-ad76dcd-afe76e9-49af03c/item.png"
+          }
+      },
+      "glider": {
+          "itemid": "cda7c43-526f959-5160326-dd0b73e",
+          "name": "Equilibrium",
+          "description": "",
+          "type": "glider",
+          "rarity": "uncommon",
+          "costmeticId": "AthenaGlider:glider_id_109_streetgoth",
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/glider/39cdccadd843b2453dfdd7003d11fd01.png",
+              "featured": "https://fortnite-public-files.theapinetwork.com/featured/cda7c43-526f959-5160326-dd0b73e.png",
+              "background": "https://fortnite-public-files.theapinetwork.com/image/cda7c43-526f959-5160326-dd0b73e.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/cda7c43-526f959-5160326-dd0b73e/item.png"
+          }
+      },
+      "spray": {
+          "itemid": "16c798c-ab9965c-f46155a-8ec7363",
+          "name": "Deadfire",
+          "description": null,
+          "type": "spray",
+          "rarity": "uncommon",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/spray/75120268687b8dd66a58b326adcb94f1.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/16c798c-ab9965c-f46155a-8ec7363.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/16c798c-ab9965c-f46155a-8ec7363/item.png"
+          }
+      },
+      "toy": {
+          "itemid": "f1aec52-3df3850-c6a34d1-c1ff40a",
+          "name": "Fancy Golf Ball",
+          "description": null,
+          "type": "toy",
+          "rarity": "epic",
+          "costmeticId": null,
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/toy/fdbda9fd044179f7c0ac933bdf678580.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/f1aec52-3df3850-c6a34d1-c1ff40a.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/f1aec52-3df3850-c6a34d1-c1ff40a/item.png"
+          }
+      },
+      "wrap": {
+          "itemid": "a889524-7cb7b00-fb3c3bc-232a31a",
+          "name": "Rhino",
+          "description": "",
+          "type": "wrap",
+          "rarity": "uncommon",
+          "costmeticId": "AthenaItemWrap:wrap_052_rhino",
+          "images": {
+              "icon": "https://fortnite-public-files.theapinetwork.com/wrap/2e4fca1b702b24ad215b617c700bac0a.png",
+              "featured": null,
+              "background": "https://fortnite-public-files.theapinetwork.com/image/a889524-7cb7b00-fb3c3bc-232a31a.png",
+              "information": "https://fortnite-public-files.theapinetwork.com/image/a889524-7cb7b00-fb3c3bc-232a31a/item.png"
+          }
+      }
+  }
+}

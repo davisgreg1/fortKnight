@@ -1,0 +1,729 @@
+{
+  "data": [
+      {
+          "itemId": "d748741-a62b070-1e783c7-4337a86",
+          "lastUpdate": 1565801835,
+          "item": {
+              "name": "Exo-Spine",
+              "description": "",
+              "type": "backpack",
+              "rarity": "legendary",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/3e84fb38dea139a3df4f30fed4d2c846.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/d748741-a62b070-1e783c7-4337a86.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/d748741-a62b070-1e783c7-4337a86/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 4.42,
+                  "totalPoints": 720,
+                  "numberVotes": 163
+              }
+          }
+      },
+      {
+          "itemId": "21d4072-ecdca82-1c60277-dc36cbb",
+          "lastUpdate": 1565801869,
+          "item": {
+              "name": "Backbeat",
+              "description": "",
+              "type": "backpack",
+              "rarity": "epic",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/93f22749545717b667b6b01baaaed164.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/21d4072-ecdca82-1c60277-dc36cbb.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/21d4072-ecdca82-1c60277-dc36cbb/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 4.37,
+                  "totalPoints": 459,
+                  "numberVotes": 105
+              }
+          }
+      },
+      {
+          "itemId": "8d8af82-385ccd5-dda7b64-a44d311",
+          "lastUpdate": 1558642185,
+          "item": {
+              "name": "Bao Bros",
+              "description": "",
+              "type": "outfit",
+              "rarity": "epic",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/5b0a79359f5aea11b7eb81e5ce995a10.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/8d8af82-385ccd5-dda7b64-a44d311.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/8d8af82-385ccd5-dda7b64-a44d311.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/8d8af82-385ccd5-dda7b64-a44d311/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 4.21,
+                  "totalPoints": 3270,
+                  "numberVotes": 777
+              }
+          }
+      },
+      {
+          "itemId": "ab0a9ff-bf7d557-ab8ebde-f4f2e1a",
+          "lastUpdate": 1558642313,
+          "item": {
+              "name": "Bao Basket",
+              "description": "",
+              "type": "backpack",
+              "rarity": "epic",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/7895864f054008c85a11392469e48500.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/ab0a9ff-bf7d557-ab8ebde-f4f2e1a.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/ab0a9ff-bf7d557-ab8ebde-f4f2e1a/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.55,
+                  "totalPoints": 355,
+                  "numberVotes": 100
+              }
+          }
+      },
+      {
+          "itemId": "81b3f1b-858ac88-c4d5777-be90861",
+          "lastUpdate": 1566550381,
+          "item": {
+              "name": "Corrupted Voyager",
+              "description": "Spread the corruption. ",
+              "type": "outfit",
+              "rarity": "epic",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/8735f76059595de3be04c74827b636a4.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/81b3f1b-858ac88-c4d5777-be90861.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/81b3f1b-858ac88-c4d5777-be90861.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/81b3f1b-858ac88-c4d5777-be90861/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.31,
+                  "totalPoints": 431,
+                  "numberVotes": 100
+              }
+          }
+      },
+      {
+          "itemId": "8107130-7b1a38a-5c30d0b-45251d8",
+          "lastUpdate": 1560103419,
+          "item": {
+              "name": "Airhead",
+              "description": "Pop into action.",
+              "type": "outfit",
+              "rarity": "epic",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/45ea465cff8f8cdd921e482bc6393e81.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/8107130-7b1a38a-5c30d0b-45251d8.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/8107130-7b1a38a-5c30d0b-45251d8.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/8107130-7b1a38a-5c30d0b-45251d8/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 4.26,
+                  "totalPoints": 2899,
+                  "numberVotes": 681
+              }
+          }
+      },
+      {
+          "itemId": "970a48f-c2f26cb-23d7287-efb1679",
+          "lastUpdate": 1562257672,
+          "item": {
+              "name": "Utility Pack",
+              "description": "",
+              "type": "backpack",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/d9501d29f6a0da6f4dc982f6e0e2a1a6.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/970a48f-c2f26cb-23d7287-efb1679.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/970a48f-c2f26cb-23d7287-efb1679/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.45,
+                  "totalPoints": 176,
+                  "numberVotes": 51
+              }
+          }
+      },
+      {
+          "itemId": "01b3ca3-873737f-f364abe-d427472",
+          "lastUpdate": 1565801986,
+          "item": {
+              "name": "Kunai Shield",
+              "description": "",
+              "type": "backpack",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/0a58792a9f37d918115608ae0b308007.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/01b3ca3-873737f-f364abe-d427472.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/01b3ca3-873737f-f364abe-d427472/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.65,
+                  "totalPoints": 135,
+                  "numberVotes": 37
+              }
+          }
+      },
+      {
+          "itemId": "df49a3f-2dafa44-ecf789b-455f729",
+          "lastUpdate": 1565802039,
+          "item": {
+              "name": "Foxpack",
+              "description": "",
+              "type": "backpack",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/4c2a7f02bd601914358a4e677ba6e90f.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/df49a3f-2dafa44-ecf789b-455f729.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/df49a3f-2dafa44-ecf789b-455f729/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 4.26,
+                  "totalPoints": 179,
+                  "numberVotes": 42
+              }
+          }
+      },
+      {
+          "itemId": "edc8bc6-0f84118-789615c-da6522d",
+          "lastUpdate": 1566550343,
+          "item": {
+              "name": "Corrupted",
+              "description": "Show your style.",
+              "type": "wrap",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/wrap/b5d1e545481723ebccd0d69b6ca45e1d.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/edc8bc6-0f84118-789615c-da6522d.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/edc8bc6-0f84118-789615c-da6522d/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.04,
+                  "totalPoints": 113,
+                  "numberVotes": 28
+              }
+          }
+      },
+      {
+          "itemId": "c5fa928-17fe800-2d39948-85f0766",
+          "lastUpdate": 1566950407,
+          "item": {
+              "name": "Square Stream",
+              "description": "Show your style.",
+              "type": "wrap",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/wrap/25b5e1d73fa6d460237ee0138891e64c.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/c5fa928-17fe800-2d39948-85f0766.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/c5fa928-17fe800-2d39948-85f0766/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.05,
+                  "totalPoints": 67,
+                  "numberVotes": 22
+              }
+          }
+      },
+      {
+          "itemId": "dc34af5-dec44ad-420d602-3e52ba9",
+          "lastUpdate": 1567036806,
+          "item": {
+              "name": "Llama Conga",
+              "description": "Trot on. ",
+              "type": "emote",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/emote/1cd5034c1a47851250b5817cc24a16a4.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/dc34af5-dec44ad-420d602-3e52ba9.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/dc34af5-dec44ad-420d602-3e52ba9/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.01,
+                  "totalPoints": 353,
+                  "numberVotes": 88
+              }
+          }
+      },
+      {
+          "itemId": "da496a5-991f670-96a326d-007a5bc",
+          "lastUpdate": 1567555206,
+          "item": {
+              "name": "Jitterbug",
+              "description": "We're buggin' out!",
+              "type": "emote",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/emote/f744bd9edcfbc2a9aa37b2503d9d5f05.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/da496a5-991f670-96a326d-007a5bc.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/da496a5-991f670-96a326d-007a5bc/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.18,
+                  "totalPoints": 159,
+                  "numberVotes": 38
+              }
+          }
+      },
+      {
+          "itemId": "048682f-72ab6de-2f5145d-0498f74",
+          "lastUpdate": 1567641613,
+          "item": {
+              "name": "Llama Beat",
+              "description": "Press play, and demand more.",
+              "type": "music",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/music/84fa9b4c73d18ea8cd5386fe868af753.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/048682f-72ab6de-2f5145d-0498f74.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/048682f-72ab6de-2f5145d-0498f74/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 0,
+                  "totalPoints": 0,
+                  "numberVotes": 0
+              }
+          }
+      },
+      {
+          "itemId": "6165baa-034918f-2b16d02-cce60d1",
+          "lastUpdate": 1567814463,
+          "item": {
+              "name": "Stunt Cycle",
+              "description": "Hang on tight.",
+              "type": "glider",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/glider/0cdea48e7eb35993ba825875f9fff1bc.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/6165baa-034918f-2b16d02-cce60d1.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/6165baa-034918f-2b16d02-cce60d1.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/6165baa-034918f-2b16d02-cce60d1/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.07,
+                  "totalPoints": 57,
+                  "numberVotes": 14
+              }
+          }
+      },
+      {
+          "itemId": "40ef4a8-501ba5f-183f677-abd81b8",
+          "lastUpdate": 1567900805,
+          "item": {
+              "name": "Angular Flow",
+              "description": "Show your style.",
+              "type": "wrap",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/wrap/8ded7cbf42c79e94b34da00aa95afca1.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/40ef4a8-501ba5f-183f677-abd81b8.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/40ef4a8-501ba5f-183f677-abd81b8/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.29,
+                  "totalPoints": 60,
+                  "numberVotes": 14
+              }
+          }
+      },
+      {
+          "itemId": "8646ab8-849d36c-e98a9fc-ea53e9c",
+          "lastUpdate": 1567987205,
+          "item": {
+              "name": "Tsssss",
+              "description": "Your time here is done. ",
+              "type": "emote",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/emote/843f64bfc3f6811d70de18c8031b8a8b.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/8646ab8-849d36c-e98a9fc-ea53e9c.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/8646ab8-849d36c-e98a9fc-ea53e9c/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.8,
+                  "totalPoints": 152,
+                  "numberVotes": 40
+              }
+          }
+      },
+      {
+          "itemId": "8292ad0-c488ba4-6e34a12-6d845bc",
+          "lastUpdate": 1568073663,
+          "item": {
+              "name": "Aeronaut",
+              "description": "Journey beyond the edge of the sky.",
+              "type": "outfit",
+              "rarity": "rare",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/c5fd95e91086b71a296423efba1575b8.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/8292ad0-c488ba4-6e34a12-6d845bc.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/8292ad0-c488ba4-6e34a12-6d845bc.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/8292ad0-c488ba4-6e34a12-6d845bc/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.23,
+                  "totalPoints": 42,
+                  "numberVotes": 13
+              }
+          }
+      },
+      {
+          "itemId": "7607d5a-67b3fae-ee9202c-eef5fb4",
+          "lastUpdate": 1562257552,
+          "item": {
+              "name": "Souped Up",
+              "description": "",
+              "type": "pickaxe",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/pickaxe/85ef8084b95e16acdb754b1226fb17bb.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/7607d5a-67b3fae-ee9202c-eef5fb4.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/7607d5a-67b3fae-ee9202c-eef5fb4/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.57,
+                  "totalPoints": 225,
+                  "numberVotes": 63
+              }
+          }
+      },
+      {
+          "itemId": "daae2a3-3376277-36d8569-16550ef",
+          "lastUpdate": 1554300788,
+          "item": {
+              "name": "Helium",
+              "description": "",
+              "type": "glider",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/glider/a03167bff87cf797e53bb916829c1cdc.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/daae2a3-3376277-36d8569-16550ef.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/daae2a3-3376277-36d8569-16550ef/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.49,
+                  "totalPoints": 583,
+                  "numberVotes": 167
+              }
+          }
+      },
+      {
+          "itemId": "599343e-4839a51-29cecd0-33decae",
+          "lastUpdate": 1554300788,
+          "item": {
+              "name": "Rush",
+              "description": "",
+              "type": "glider",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/glider/31ad98184e96214e085bccc4d0d5684a.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/599343e-4839a51-29cecd0-33decae.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/599343e-4839a51-29cecd0-33decae/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "none",
+              "ratings": {
+                  "avgStars": 3.82,
+                  "totalPoints": 1017,
+                  "numberVotes": 266
+              }
+          }
+      },
+      {
+          "itemId": "f8a2e7d-9cb9f6d-f6a783d-84b277d",
+          "lastUpdate": 1565827263,
+          "item": {
+              "name": "Grit",
+              "description": "The will and skill to outlast.",
+              "type": "outfit",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/60cc556365e88597d85afff39d0838ed.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/f8a2e7d-9cb9f6d-f6a783d-84b277d.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/f8a2e7d-9cb9f6d-f6a783d-84b277d.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/f8a2e7d-9cb9f6d-f6a783d-84b277d/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.04,
+                  "totalPoints": 513,
+                  "numberVotes": 127
+              }
+          }
+      },
+      {
+          "itemId": "184facc-6ca3f00-5b9366a-313ae62",
+          "lastUpdate": 1565827263,
+          "item": {
+              "name": "Red Streak",
+              "description": "Find your hot streak.",
+              "type": "pickaxe",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/pickaxe/e4eba552bf0403c898c66a6cf6c38791.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/184facc-6ca3f00-5b9366a-313ae62.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/184facc-6ca3f00-5b9366a-313ae62.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/184facc-6ca3f00-5b9366a-313ae62/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.86,
+                  "totalPoints": 247,
+                  "numberVotes": 64
+              }
+          }
+      },
+      {
+          "itemId": "8403b27-7c9f125-ef5487b-552aeab",
+          "lastUpdate": 1566000063,
+          "item": {
+              "name": "Recon Ranger",
+              "description": "Expert field intel ranger. ",
+              "type": "outfit",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/643116cfae2e02668cfdff27b324dafe.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/8403b27-7c9f125-ef5487b-552aeab.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/8403b27-7c9f125-ef5487b-552aeab.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/8403b27-7c9f125-ef5487b-552aeab/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.39,
+                  "totalPoints": 1147,
+                  "numberVotes": 261
+              }
+          }
+      },
+      {
+          "itemId": "ff133ed-8705ce1-bacc68f-0e7586a",
+          "lastUpdate": 1566604817,
+          "item": {
+              "name": "Red Camo",
+              "description": "Show your style.",
+              "type": "wrap",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/wrap/120f2b0fccc6d5e25199070d63a4b0fd.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/ff133ed-8705ce1-bacc68f-0e7586a.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/ff133ed-8705ce1-bacc68f-0e7586a/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.66,
+                  "totalPoints": 128,
+                  "numberVotes": 35
+              }
+          }
+      },
+      {
+          "itemId": "7f9a397-fce026c-07dd615-67bfb90",
+          "lastUpdate": 1567641607,
+          "item": {
+              "name": "Fingerprint",
+              "description": "Show your style.",
+              "type": "wrap",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/wrap/00e4e4f8c7832df9fee4f3db03e3a1c6.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/7f9a397-fce026c-07dd615-67bfb90.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/7f9a397-fce026c-07dd615-67bfb90/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.2,
+                  "totalPoints": 105,
+                  "numberVotes": 25
+              }
+          }
+      },
+      {
+          "itemId": "50b7e38-570b820-c9800a3-3a6f080",
+          "lastUpdate": 1567814461,
+          "item": {
+              "name": "Hard Charger ",
+              "description": "Gassed up and ready to ride. ",
+              "type": "outfit",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/94fa097c186ce83d9f7d8451e1324958.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/50b7e38-570b820-c9800a3-3a6f080.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/50b7e38-570b820-c9800a3-3a6f080.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/50b7e38-570b820-c9800a3-3a6f080/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.07,
+                  "totalPoints": 187,
+                  "numberVotes": 46
+              }
+          }
+      },
+      {
+          "itemId": "b281139-3b50cae-708a19e-c89b700",
+          "lastUpdate": 1567814411,
+          "item": {
+              "name": "Motocase",
+              "description": "Built for speed. ",
+              "type": "backpack",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/backpack/f857da8edff47d624f0c2f7c2df7c109.png",
+                  "featured": null,
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/b281139-3b50cae-708a19e-c89b700.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/b281139-3b50cae-708a19e-c89b700/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 4.5,
+                  "totalPoints": 63,
+                  "numberVotes": 14
+              }
+          }
+      },
+      {
+          "itemId": "a802780-d91e612-d49c525-4dd6381",
+          "lastUpdate": 1568073663,
+          "item": {
+              "name": "Aero Axe",
+              "description": "Show your stripes.",
+              "type": "pickaxe",
+              "rarity": "uncommon",
+              "cost": "???",
+              "upcoming": true,
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/pickaxe/b0ec07c639ebd5f4a91531b97220ff59.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/a802780-d91e612-d49c525-4dd6381.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/a802780-d91e612-d49c525-4dd6381.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/a802780-d91e612-d49c525-4dd6381/item.png"
+              },
+              "obtained": "???",
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3,
+                  "totalPoints": 9,
+                  "numberVotes": 3
+              }
+          }
+      }
+  ]
+}

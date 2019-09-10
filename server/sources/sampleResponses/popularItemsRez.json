@@ -1,0 +1,508 @@
+{
+  "entries": [
+      {
+          "type": "hour",
+          "name": "Popular items in the past 60 minutes",
+          "entries": [
+              {
+                  "identifier": "de365ed-715c7a4-d7831f7-15823cc",
+                  "name": "Cuddle Cruiser",
+                  "description": "The turbulence is bearable.",
+                  "cost": 800,
+                  "type": "glider",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/glider/d0887b8a1920eba1d80678e70d8dbb3f.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/de365ed-715c7a4-d7831f7-15823cc.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/de365ed-715c7a4-d7831f7-15823cc/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.19,
+                      "totalPoints": 604,
+                      "numberVotes": 144
+                  },
+                  "lastupdate": 1566345663
+              },
+              {
+                  "identifier": "c3a4196-e107207-a617cec-ef48916",
+                  "name": "Cuddle Team Leader",
+                  "description": "Hug it out.",
+                  "cost": 2000,
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/0424531c5bc3bec418c53c7d8a8ff82f.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.13,
+                      "totalPoints": 6594,
+                      "numberVotes": 1598
+                  },
+                  "lastupdate": 1566345600
+              },
+              {
+                  "identifier": "3c83cd1-592e881-d91e78b-34442d8",
+                  "name": "Bullseye",
+                  "description": "I never miss.",
+                  "cost": 800,
+                  "type": "outfit",
+                  "rarity": "uncommon",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/890b58b6c659f3fb5565b7f7b211d1c8.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/3c83cd1-592e881-d91e78b-34442d8.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/3c83cd1-592e881-d91e78b-34442d8/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.43,
+                      "totalPoints": 3103,
+                      "numberVotes": 700
+                  },
+                  "lastupdate": 1567123200
+              },
+              {
+                  "identifier": "86b3655-6ad3f60-e7013c7-d2212e2",
+                  "name": "Cuddle Paw",
+                  "description": null,
+                  "cost": 800,
+                  "type": "pickaxe",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/416f52ed825b4f82f04ff9737c7af8d4.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/86b3655-6ad3f60-e7013c7-d2212e2.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/86b3655-6ad3f60-e7013c7-d2212e2/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.51,
+                      "totalPoints": 604,
+                      "numberVotes": 172
+                  },
+                  "lastupdate": 1566345600
+              },
+              {
+                  "identifier": "a130cc6-96275e8-41be8f2-53b3878",
+                  "name": "Fancy Feet",
+                  "description": null,
+                  "cost": 500,
+                  "type": "emote",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/emote/cd9f49e066e67c6175e115178a866895.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/a130cc6-96275e8-41be8f2-53b3878.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/a130cc6-96275e8-41be8f2-53b3878/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.17,
+                      "totalPoints": 576,
+                      "numberVotes": 138
+                  },
+                  "lastupdate": 1563494400
+              },
+              {
+                  "identifier": "dd690be-dacba62-13998ad-a50a04c",
+                  "name": "Vision",
+                  "description": "Unending gaze.",
+                  "cost": 800,
+                  "type": "pickaxe",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/ac90d737d966dfeea66049a223912f16.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/dd690be-dacba62-13998ad-a50a04c.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/dd690be-dacba62-13998ad-a50a04c/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.37,
+                      "totalPoints": 4608,
+                      "numberVotes": 1054
+                  },
+                  "lastupdate": 1567036800
+              }
+          ]
+      },
+      {
+          "type": "day",
+          "name": "Popular items in the past 24 hours",
+          "entries": [
+              {
+                  "identifier": "eda4913-c868e30-42291e9-4a1ddcf",
+                  "name": "Lace",
+                  "description": "Lives for the thrill of the frill.",
+                  "cost": 1500,
+                  "type": "outfit",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/3f5017c9919e75f7aca2c5ba34893086.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/eda4913-c868e30-42291e9-4a1ddcf.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/eda4913-c868e30-42291e9-4a1ddcf/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.87,
+                      "totalPoints": 2729,
+                      "numberVotes": 706
+                  },
+                  "lastupdate": 1567036800
+              },
+              {
+                  "identifier": "dd690be-dacba62-13998ad-a50a04c",
+                  "name": "Vision",
+                  "description": "Unending gaze.",
+                  "cost": 800,
+                  "type": "pickaxe",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/ac90d737d966dfeea66049a223912f16.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/dd690be-dacba62-13998ad-a50a04c.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/dd690be-dacba62-13998ad-a50a04c/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.37,
+                      "totalPoints": 4608,
+                      "numberVotes": 1054
+                  },
+                  "lastupdate": 1567036800
+              },
+              {
+                  "identifier": "f33b9ce-7202975-6778b2d-3fc30e2",
+                  "name": "Studded Axe",
+                  "description": null,
+                  "cost": 800,
+                  "type": "pickaxe",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/1ac59840ac3a5f7722b85a7e32890e5a.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/f33b9ce-7202975-6778b2d-3fc30e2.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/f33b9ce-7202975-6778b2d-3fc30e2/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.19,
+                      "totalPoints": 2800,
+                      "numberVotes": 669
+                  },
+                  "lastupdate": 1566836610
+              },
+              {
+                  "identifier": "2e36193-af95cde-88c817d-2a46286",
+                  "name": "Punched Up",
+                  "description": "Show off your form.",
+                  "cost": 200,
+                  "type": "emote",
+                  "rarity": "uncommon",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/emote/8ff658dfaa21e2ade12e35ce54f5c1f0.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/2e36193-af95cde-88c817d-2a46286.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/2e36193-af95cde-88c817d-2a46286/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.74,
+                      "totalPoints": 445,
+                      "numberVotes": 119
+                  },
+                  "lastupdate": 1559001602
+              },
+              {
+                  "identifier": "f7a2651-4b65cb3-f88085c-232d6d9",
+                  "name": "Flippin' Sexy",
+                  "description": null,
+                  "cost": 500,
+                  "type": "emote",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/emote/211217f6fefb27326d176ebfd97faf52.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/f7a2651-4b65cb3-f88085c-232d6d9.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/f7a2651-4b65cb3-f88085c-232d6d9/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.2,
+                      "totalPoints": 1823,
+                      "numberVotes": 434
+                  },
+                  "lastupdate": 1566432000
+              },
+              {
+                  "identifier": "cda7c43-526f959-5160326-dd0b73e",
+                  "name": "Equilibrium",
+                  "description": "",
+                  "cost": 500,
+                  "type": "glider",
+                  "rarity": "uncommon",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/glider/39cdccadd843b2453dfdd7003d11fd01.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/cda7c43-526f959-5160326-dd0b73e.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/cda7c43-526f959-5160326-dd0b73e/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.54,
+                      "totalPoints": 620,
+                      "numberVotes": 175
+                  },
+                  "lastupdate": 1567100283
+              }
+          ]
+      },
+      {
+          "type": "week",
+          "name": "Popular items in the past 7 days",
+          "entries": [
+              {
+                  "identifier": "bbd7f70-894e2ef-27ecbb8-08d7f4c",
+                  "name": "Magma",
+                  "description": "",
+                  "cost": 700,
+                  "type": "wrap",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/wrap/f51a8a5e49011483a87c55680db3548b.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/bbd7f70-894e2ef-27ecbb8-08d7f4c.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/bbd7f70-894e2ef-27ecbb8-08d7f4c/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.58,
+                      "totalPoints": 5198,
+                      "numberVotes": 1135
+                  },
+                  "lastupdate": 1568073600
+              },
+              {
+                  "identifier": "c523b73-aeff7b6-a295adf-1b9d9d3",
+                  "name": "Nightwitch",
+                  "description": "Rise with the moon.",
+                  "cost": 1500,
+                  "type": "outfit",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/4d81831501af614e84f9c273bf05469d.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/c523b73-aeff7b6-a295adf-1b9d9d3.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/c523b73-aeff7b6-a295adf-1b9d9d3/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.67,
+                      "totalPoints": 1508,
+                      "numberVotes": 411
+                  },
+                  "lastupdate": 1564358400
+              },
+              {
+                  "identifier": "a1dcebb-e269b9e-7bf3812-a9b32b7",
+                  "name": "Molten Battle Hound",
+                  "description": "Release the molten hound!",
+                  "cost": "???",
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/afaa8546c80d88a3fb6e6a20656ed001.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/a1dcebb-e269b9e-7bf3812-a9b32b7.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/a1dcebb-e269b9e-7bf3812-a9b32b7/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.49,
+                      "totalPoints": 2301,
+                      "numberVotes": 512
+                  },
+                  "lastupdate": 1554300788
+              },
+              {
+                  "identifier": "72d772c-55689e4-762679f-903552a",
+                  "name": "Shaman",
+                  "description": "Embody the spirit of victory.",
+                  "cost": 1500,
+                  "type": "outfit",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/ddebb7024f8182b0cc863e11a50b25e9.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/72d772c-55689e4-762679f-903552a.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/72d772c-55689e4-762679f-903552a/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.24,
+                      "totalPoints": 719,
+                      "numberVotes": 222
+                  },
+                  "lastupdate": 1563062400
+              },
+              {
+                  "identifier": "3a73cab-749e26d-b54e8c5-505b5e4",
+                  "name": "Dark Vanguard",
+                  "description": "Exploring the outer limits.",
+                  "cost": 2000,
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/a6b5ef2c3f7831274fa5fc02f08c54a4.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.06,
+                      "totalPoints": 4197,
+                      "numberVotes": 1034
+                  },
+                  "lastupdate": 1563646442
+              },
+              {
+                  "identifier": "7f73bdf-19b0374-a72e239-59e906d",
+                  "name": "Fire Spinner",
+                  "description": "Head it up.",
+                  "cost": 800,
+                  "type": "emote",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/emote/5050c928ead709fd94b98132cace0f2a.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/7f73bdf-19b0374-a72e239-59e906d.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/7f73bdf-19b0374-a72e239-59e906d/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.32,
+                      "totalPoints": 1183,
+                      "numberVotes": 274
+                  },
+                  "lastupdate": 1559088002
+              }
+          ]
+      },
+      {
+          "type": "alltime",
+          "name": "Popular items.",
+          "entries": [
+              {
+                  "identifier": "59eb4f6-e81c036-42fab23-375205c",
+                  "name": "Black Knight",
+                  "description": "The odious scourge of Wailing Woods.",
+                  "cost": "\r\nTier 70 (S2)",
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/f3d0ee3316df5a64ae286aeb4e0abc69.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.34,
+                      "totalPoints": 24240,
+                      "numberVotes": 5585
+                  },
+                  "lastupdate": 1554300788
+              },
+              {
+                  "identifier": "1abde17-d3ca16d-4a44418-abb3ef2",
+                  "name": "Marshmello",
+                  "description": "Start the party.",
+                  "cost": 1500,
+                  "type": "outfit",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/ee7ed4fb103c3f89fc41cba189bae7d1.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/1abde17-d3ca16d-4a44418-abb3ef2.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/1abde17-d3ca16d-4a44418-abb3ef2/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.4,
+                      "totalPoints": 8271,
+                      "numberVotes": 1879
+                  },
+                  "lastupdate": 1564272000
+              },
+              {
+                  "identifier": "f3b50ea-abe55f3-afe5376-d409e3c",
+                  "name": "Ark",
+                  "description": "Pristine plumage.",
+                  "cost": 2000,
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/f2104578468f47ad53c497d745b6c131.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.97,
+                      "totalPoints": 8811,
+                      "numberVotes": 2217
+                  },
+                  "lastupdate": 1567900800
+              },
+              {
+                  "identifier": "5c25ad9-965d973-1ecd1c9-4a06e53",
+                  "name": "Renegade Raider",
+                  "description": "Season Shop (Season 1)",
+                  "cost": "\r\n1,200",
+                  "type": "outfit",
+                  "rarity": "rare",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/0be09dd605f0b6e12fccaa4814fce690.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/5c25ad9-965d973-1ecd1c9-4a06e53.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/5c25ad9-965d973-1ecd1c9-4a06e53/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 4.55,
+                      "totalPoints": 12996,
+                      "numberVotes": 2855
+                  },
+                  "lastupdate": 1554300788
+              },
+              {
+                  "identifier": "552cd39-3307b68-2aef1e3-414c094",
+                  "name": "A.I.M.",
+                  "description": "Scanning area for targets",
+                  "cost": "Blockbuster (S6)",
+                  "type": "outfit",
+                  "rarity": "legendary",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/b2598e4912ecd7116b0f4680aecc0dff.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.71,
+                      "totalPoints": 7320,
+                      "numberVotes": 1975
+                  },
+                  "lastupdate": 1554300788
+              },
+              {
+                  "identifier": "270d97f-2104df6-c59c27f-1cfe730",
+                  "name": "Malcore",
+                  "description": "Malevolent to the core",
+                  "cost": 1500,
+                  "type": "outfit",
+                  "rarity": "epic",
+                  "upcoming": 0,
+                  "images": {
+                      "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/98a5fee5b66ac9356308105af28acb11.png",
+                      "background": "https://fortnite-public-files.theapinetwork.com/image/270d97f-2104df6-c59c27f-1cfe730.png",
+                      "info": "https://fortnite-public-files.theapinetwork.com/image/270d97f-2104df6-c59c27f-1cfe730/item.png"
+                  },
+                  "ratings": {
+                      "avgStars": 3.69,
+                      "totalPoints": 3788,
+                      "numberVotes": 1027
+                  },
+                  "lastupdate": 1567900800
+              }
+          ]
+      }
+  ]
+}

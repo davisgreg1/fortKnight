@@ -1,0 +1,1286 @@
+{
+    "data": {
+        "entries": [
+            {
+                "identifier": "17c85c7f8de56154331375a802dba79f",
+                "name": "Suppressed Assault Rifle",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-assault-rifle.png",
+                "stats": {
+                    "dps": "181.5",
+                    "hit_body": "33",
+                    "hit_head": "66",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "b60c8ddeec2a3aa9ac8c850e87c94741",
+                "name": "Suppressed Assault Rifle",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-assault-rifle.png",
+                "stats": {
+                    "dps": "176",
+                    "hit_body": "32",
+                    "hit_head": "64",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "1c85c6d-c5d63b1-dbb2524-a109e79",
+                "name": "Compact Gun",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/compact-gun.png",
+                "stats": {
+                    "dps": "210",
+                    "hit_body": "21",
+                    "hit_head": "42",
+                    "firerate": "10",
+                    "magazinesize": "40",
+                    "reloadtime": "3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "8ff1cd2-04739d5-a679e9e-0b07456",
+                "name": "Compact Gun",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/compact-gun.png",
+                "stats": {
+                    "dps": "200",
+                    "hit_body": "20",
+                    "hit_head": "40",
+                    "firerate": "10",
+                    "magazinesize": "40",
+                    "reloadtime": "3.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "8de5715-b66a6a3-7b3375d-e936822",
+                "name": "Compact Gun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/compact-gun.png",
+                "stats": {
+                    "dps": "190",
+                    "hit_body": "19",
+                    "hit_head": "38",
+                    "firerate": "10",
+                    "magazinesize": "40",
+                    "reloadtime": "3.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "8a6872b-8f13efa-b9f5ad8-a6a7a4a",
+                "name": "Compact Gun",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/compact-gun.png",
+                "stats": {
+                    "dps": "180",
+                    "hit_body": "18",
+                    "hit_head": "36",
+                    "firerate": "10",
+                    "magazinesize": "40",
+                    "reloadtime": "3.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "799d102-1eb1c3f-8ec545f-81da4fb",
+                "name": "Compact Gun",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/compact-gun.png",
+                "stats": {
+                    "dps": "170",
+                    "hit_body": "17",
+                    "hit_head": "34",
+                    "firerate": "10",
+                    "magazinesize": "40",
+                    "reloadtime": "3.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "e7624b7-7b9cb1a-4a7f9d8-1198ba6",
+                "name": "Dual Pistol",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/dual-pistol.png",
+                "stats": {
+                    "dps": "94.6",
+                    "hit_body": "43",
+                    "hit_head": "86",
+                    "firerate": "2.2",
+                    "magazinesize": "18",
+                    "reloadtime": "2.7",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "ea31bde-98e904d-43ed83b-1e64112",
+                "name": "Dual Pistol",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/dual-pistol.png",
+                "stats": {
+                    "dps": "90.2",
+                    "hit_body": "41",
+                    "hit_head": "82",
+                    "firerate": "2.2",
+                    "magazinesize": "18",
+                    "reloadtime": "2.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f2db68b-6ca550a-e361c37-c752004",
+                "name": "Thermal Scope Assault Rifle",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/thermal-scope-assault-rifle.png",
+                "stats": {
+                    "dps": "66.6",
+                    "hit_body": "37",
+                    "hit_head": "74",
+                    "firerate": "1.8",
+                    "magazinesize": "15",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "4b530b0-a608db0-15aa278-38ef9bb",
+                "name": "Thermal Scope Assault Rifle",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/thermal-scope-assault-rifle.png",
+                "stats": {
+                    "dps": "64.8",
+                    "hit_body": "36",
+                    "hit_head": "72",
+                    "firerate": "1.8",
+                    "magazinesize": "15",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "22a636d-a6f70c6-a981f85-62c9b46",
+                "name": "Heavy Sniper",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/heavy-sniper.png",
+                "stats": {
+                    "dps": "51.8",
+                    "hit_body": "157",
+                    "hit_head": "392.5",
+                    "firerate": "0.33",
+                    "magazinesize": "1",
+                    "reloadtime": "4.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "fd811cd-9c9bb8d-a4035c8-8549bc3",
+                "name": "Heavy Sniper",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/heavy-sniper.png",
+                "stats": {
+                    "dps": "49.5",
+                    "hit_body": "150",
+                    "hit_head": "375",
+                    "firerate": "0.33",
+                    "magazinesize": "1",
+                    "reloadtime": "4.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "25439c5-c1911f3-893fdc5-a5dbe35",
+                "name": "Double Barrel Shotgun",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/double-barrel-shotgun.png",
+                "stats": {
+                    "dps": "285",
+                    "hit_body": "120",
+                    "hit_head": "187.5",
+                    "firerate": "1.9",
+                    "magazinesize": "2",
+                    "reloadtime": "2.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "c9258b9-c3cde8d-064214c-a28a271",
+                "name": "Double Barrel Shotgun",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/double-barrel-shotgun.png",
+                "stats": {
+                    "dps": "271.7",
+                    "hit_body": "114",
+                    "hit_head": "178.75",
+                    "firerate": "1.9",
+                    "magazinesize": "2",
+                    "reloadtime": "2.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "94a4067-2c77bd9-4a9298d-c26cc62",
+                "name": "Submachine Gun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun-2.png",
+                "stats": {
+                    "dps": "228",
+                    "hit_body": "19",
+                    "hit_head": "38",
+                    "firerate": "12",
+                    "magazinesize": "30",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "6a64b92-d2bb194-da3b111-1871f99",
+                "name": "Submachine Gun",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun-2.png",
+                "stats": {
+                    "dps": "216",
+                    "hit_body": "18",
+                    "hit_head": "36",
+                    "firerate": "12",
+                    "magazinesize": "30",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "13a2928-661627d-afeac30-dd3da2c",
+                "name": "Submachine Gun",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun-2.png",
+                "stats": {
+                    "dps": "204",
+                    "hit_body": "17",
+                    "hit_head": "34",
+                    "firerate": "12",
+                    "magazinesize": "30",
+                    "reloadtime": "2.4",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "79f1bcb-4a7311b-8039325-c005446",
+                "name": "Drum Gun",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/drum-gun.png",
+                "stats": {
+                    "dps": "243",
+                    "hit_body": "27",
+                    "hit_head": "54",
+                    "firerate": "9",
+                    "magazinesize": "50",
+                    "reloadtime": "3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "28d5708-797c52e-c587e55-09687b8",
+                "name": "Drum Gun",
+                "rarity": "uncommon",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/drum-gun.png",
+                "stats": {
+                    "dps": "234",
+                    "hit_body": "26",
+                    "hit_head": "52",
+                    "firerate": "9",
+                    "magazinesize": "50",
+                    "reloadtime": "3.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "248f2e5-c5e8591-6a2b212-cafa84d",
+                "name": "Jetpack",
+                "rarity": "legendary",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/jetpack.png",
+                "stats": {
+                    "dps": "0",
+                    "hit_body": "0",
+                    "hit_head": "0",
+                    "firerate": "0",
+                    "magazinesize": "1",
+                    "reloadtime": "0",
+                    "ammocost": "0"
+                }
+            },
+            {
+                "identifier": "c7d9493-df1e791-ee210f5-3aa9efc",
+                "name": "Crossbow",
+                "rarity": "epic",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/crossbow.png",
+                "stats": {
+                    "dps": "47.4",
+                    "hit_body": "79",
+                    "hit_head": "79",
+                    "firerate": "0.6",
+                    "magazinesize": "5",
+                    "reloadtime": "2.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "e800fe3-665c402-c0dcc8c-af3be38",
+                "name": "Crossbow",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/crossbow.png",
+                "stats": {
+                    "dps": "45",
+                    "hit_body": "75",
+                    "hit_head": "75",
+                    "firerate": "0.6",
+                    "magazinesize": "5",
+                    "reloadtime": "2.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "665e2a7-8c841ee-65c3850-20472a4",
+                "name": "Assault Rifle (Bullpup Burst)",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-bullpup-burst.png",
+                "stats": {
+                    "dps": "57.8",
+                    "hit_body": "33",
+                    "hit_head": "66",
+                    "firerate": "1.75",
+                    "magazinesize": "30",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "224230a-eb7ef9c-09921f1-554666b",
+                "name": "Assault Rifle (Bullpup Burst)",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-bullpup-burst.png",
+                "stats": {
+                    "dps": "56",
+                    "hit_body": "32",
+                    "hit_head": "64",
+                    "firerate": "1.75",
+                    "magazinesize": "30",
+                    "reloadtime": "2.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "7bd94a7-3ae1a75-0715c04-ad49836",
+                "name": "Semi-Auto Sniper Rifle",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/semi-auto-sniper-rifle.png",
+                "stats": {
+                    "dps": "93.6",
+                    "hit_body": "66",
+                    "hit_head": "165",
+                    "firerate": "1.2",
+                    "magazinesize": "10",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f766789-670af2a-9069916-8ef877b",
+                "name": "Semi-Auto Sniper Rifle",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/semi-auto-sniper-rifle.png",
+                "stats": {
+                    "dps": "90",
+                    "hit_body": "63",
+                    "hit_head": "157.5",
+                    "firerate": "1.2",
+                    "magazinesize": "10",
+                    "reloadtime": "2.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "759bdda-9502f79-e4ae39d-b6cccec",
+                "name": "Hunting Rifle",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/hunting-rifle.png",
+                "stats": {
+                    "dps": "72",
+                    "hit_body": "90",
+                    "hit_head": "225",
+                    "firerate": "0.8",
+                    "magazinesize": "1",
+                    "reloadtime": "1.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "383bbfa-223ace9-2cbb5b8-d13288e",
+                "name": "Hunting Rifle",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/hunting-rifle.png",
+                "stats": {
+                    "dps": "68.8",
+                    "hit_body": "86",
+                    "hit_head": "215",
+                    "firerate": "0.8",
+                    "magazinesize": "1",
+                    "reloadtime": "1.9",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "ec91509-76e1940-8f00762-4b0c488",
+                "name": "Bolt-Action Sniper Rifle",
+                "rarity": "legendary",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/bolt-action-sniper-rifle.png",
+                "stats": {
+                    "dps": "38.3",
+                    "hit_body": "116",
+                    "hit_head": "290",
+                    "firerate": "0.33",
+                    "magazinesize": "1",
+                    "reloadtime": "2.7",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "c2bed97-c2bdd3c-75bec38-738918f",
+                "name": "Bolt-Action Sniper Rifle",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/bolt-action-sniper-rifle.png",
+                "stats": {
+                    "dps": "36.3",
+                    "hit_body": "110",
+                    "hit_head": "275",
+                    "firerate": "0.33",
+                    "magazinesize": "1",
+                    "reloadtime": "2.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "6b29884-84ab92f-10e31e3-7c2920e",
+                "name": "Bolt-Action Sniper Rifle",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/bolt-action-sniper-rifle.png",
+                "stats": {
+                    "dps": "34.7",
+                    "hit_body": "105",
+                    "hit_head": "262.5",
+                    "firerate": "0.33",
+                    "magazinesize": "1",
+                    "reloadtime": "3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "2e0cc84-d7c5820-2a7da26-257b7c0",
+                "name": "Tactical Shotgun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-shotgun.png",
+                "stats": {
+                    "dps": "111",
+                    "hit_body": "74",
+                    "hit_head": "185",
+                    "firerate": "1.5",
+                    "magazinesize": "8",
+                    "reloadtime": "5.7",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "249886a-86fa5ef-6cb1606-88d05f8",
+                "name": "Tactical Shotgun",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-shotgun.png",
+                "stats": {
+                    "dps": "105",
+                    "hit_body": "70",
+                    "hit_head": "175",
+                    "firerate": "1.5",
+                    "magazinesize": "8",
+                    "reloadtime": "6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "aceb03f-badc590-80309d4-1f37d3f",
+                "name": "Tactical Shotgun",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-shotgun.png",
+                "stats": {
+                    "dps": "100.5",
+                    "hit_body": "67",
+                    "hit_head": "167.5",
+                    "firerate": "1.5",
+                    "magazinesize": "8",
+                    "reloadtime": "6.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f724c2d-40414b0-839f962-b1a7197",
+                "name": "Pump Shotgun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/pump-shotgun.png",
+                "stats": {
+                    "dps": "59.5",
+                    "hit_body": "85",
+                    "hit_head": "170",
+                    "firerate": "0.7",
+                    "magazinesize": "5",
+                    "reloadtime": "4.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "cb6255e-b9666fa-abc65de-71d147a",
+                "name": "Pump Shotgun",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/pump-shotgun.png",
+                "stats": {
+                    "dps": "56",
+                    "hit_body": "80",
+                    "hit_head": "160",
+                    "firerate": "0.7",
+                    "magazinesize": "5",
+                    "reloadtime": "4.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "525a66e-d300a8c-343cec2-5229943",
+                "name": "Heavy Shotgun",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/heavy-shotgun.png",
+                "stats": {
+                    "dps": "77",
+                    "hit_body": "77",
+                    "hit_head": "192.5",
+                    "firerate": "1",
+                    "magazinesize": "7",
+                    "reloadtime": "5.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "aba0ff4-5fbb85d-129b2e0-a267ca4",
+                "name": "Heavy Shotgun",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/heavy-shotgun.png",
+                "stats": {
+                    "dps": "74",
+                    "hit_body": "74",
+                    "hit_head": "185",
+                    "firerate": "1",
+                    "magazinesize": "7",
+                    "reloadtime": "5.9",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "29560b1-434e083-1d3e4ae-42e3ef7",
+                "name": "Tactical Submachine Gun",
+                "rarity": "epic",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-submachine-gun.png",
+                "stats": {
+                    "dps": "260",
+                    "hit_body": "18",
+                    "hit_head": "36",
+                    "firerate": "13",
+                    "magazinesize": "35",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "e3031ae-b845907-e87b1b5-d97b3a8",
+                "name": "Tactical Submachine Gun",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-submachine-gun.png",
+                "stats": {
+                    "dps": "247",
+                    "hit_body": "17",
+                    "hit_head": "34",
+                    "firerate": "13",
+                    "magazinesize": "35",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "071ec0a-95277e8-973d3b9-514ae9b",
+                "name": "Tactical Submachine Gun",
+                "rarity": "uncommon",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/tactical-submachine-gun.png",
+                "stats": {
+                    "dps": "234",
+                    "hit_body": "16",
+                    "hit_head": "32",
+                    "firerate": "13",
+                    "magazinesize": "35",
+                    "reloadtime": "2.4",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "c5c13e7-3101935-f9f603f-1aa8386",
+                "name": "Suppressed Submachine Gun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-submachine-gun.png",
+                "stats": {
+                    "dps": "206",
+                    "hit_body": "22",
+                    "hit_head": "44",
+                    "firerate": "9",
+                    "magazinesize": "30",
+                    "reloadtime": "2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "0d9cd25-1cd3238-aaa6add-c177ea1",
+                "name": "Suppressed Submachine Gun",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-submachine-gun.png",
+                "stats": {
+                    "dps": "207",
+                    "hit_body": "21",
+                    "hit_head": "42",
+                    "firerate": "9",
+                    "magazinesize": "30",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "1fcd46b-5cb23c1-f04c121-07576f2",
+                "name": "Suppressed Submachine Gun",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-submachine-gun.png",
+                "stats": {
+                    "dps": "198",
+                    "hit_body": "20",
+                    "hit_head": "40",
+                    "firerate": "9",
+                    "magazinesize": "30",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "d682118-bccbd48-bfc61e5-83f2cc8",
+                "name": "Submachine Gun",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun.png",
+                "stats": {
+                    "dps": "0",
+                    "hit_body": "16",
+                    "hit_head": "32",
+                    "firerate": "0",
+                    "magazinesize": "35",
+                    "reloadtime": "2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "5c6e349-08d3792-0c0ad5b-a60a3a4",
+                "name": "Submachine Gun",
+                "rarity": "uncommon",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun.png",
+                "stats": {
+                    "dps": "0",
+                    "hit_body": "15",
+                    "hit_head": "30",
+                    "firerate": "0",
+                    "magazinesize": "35",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "66242c1-623510c-3e2d1b3-723651c",
+                "name": "Submachine Gun",
+                "rarity": "common",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/submachine-gun.png",
+                "stats": {
+                    "dps": "0",
+                    "hit_body": "14",
+                    "hit_head": "28",
+                    "firerate": "0",
+                    "magazinesize": "35",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "4aa5944-3865e75-5e2184f-f0a5992",
+                "name": "Revolver",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/revolver.png",
+                "stats": {
+                    "dps": "54",
+                    "hit_body": "60",
+                    "hit_head": "120",
+                    "firerate": "0.9",
+                    "magazinesize": "6",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "fa638c8-0c682f2-4b5a597-42aa4a3",
+                "name": "Revolver",
+                "rarity": "uncommon",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/revolver.png",
+                "stats": {
+                    "dps": "51.3",
+                    "hit_body": "57",
+                    "hit_head": "114",
+                    "firerate": "0.9",
+                    "magazinesize": "6",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "1e4bb21-8b91269-0357a9c-6cefecf",
+                "name": "Revolver",
+                "rarity": "common",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/revolver.png",
+                "stats": {
+                    "dps": "48.6",
+                    "hit_body": "54",
+                    "hit_head": "108",
+                    "firerate": "0.9",
+                    "magazinesize": "6",
+                    "reloadtime": "2.4",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "e3f9abc-fdbd22c-e70b78d-1375ed8",
+                "name": "Suppressed Pistol",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-pistol.png",
+                "stats": {
+                    "dps": "189",
+                    "hit_body": "28",
+                    "hit_head": "56",
+                    "firerate": "6.75",
+                    "magazinesize": "16",
+                    "reloadtime": "1.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "493d8a1-e20b533-745f445-e0e13f9",
+                "name": "Suppressed Pistol",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/suppressed-pistol.png",
+                "stats": {
+                    "dps": "175.5",
+                    "hit_body": "26",
+                    "hit_head": "52",
+                    "firerate": "6.75",
+                    "magazinesize": "16",
+                    "reloadtime": "1.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "4793c7d-12a45d2-8703d6f-c4910be",
+                "name": "Hand Cannon",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/hand-cannon.png",
+                "stats": {
+                    "dps": "62.4",
+                    "hit_body": "78",
+                    "hit_head": "156",
+                    "firerate": "0.8",
+                    "magazinesize": "7",
+                    "reloadtime": "2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "34504f0-cb20525-10c53e3-ffa1aa4",
+                "name": "Hand Cannon",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/hand-cannon.png",
+                "stats": {
+                    "dps": "60",
+                    "hit_body": "75",
+                    "hit_head": "150",
+                    "firerate": "0.8",
+                    "magazinesize": "7",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "a52355a-5d01a5b-6f63f9b-80461a2",
+                "name": "Pistol",
+                "rarity": "rare",
+                "vaulted": 1,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/pistol.png",
+                "stats": {
+                    "dps": "168.8",
+                    "hit_body": "25",
+                    "hit_head": "50",
+                    "firerate": "6.75",
+                    "magazinesize": "16",
+                    "reloadtime": "1.4",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "7e623f3-f0c8cf2-cd71b7c-c7a89d2",
+                "name": "Pistol",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/pistol.png",
+                "stats": {
+                    "dps": "162",
+                    "hit_body": "24",
+                    "hit_head": "48",
+                    "firerate": "6.75",
+                    "magazinesize": "16",
+                    "reloadtime": "1.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "87043ca-bdac980-7280920-cbf544a",
+                "name": "Pistol",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/pistol.png",
+                "stats": {
+                    "dps": "155.2",
+                    "hit_body": "23",
+                    "hit_head": "46",
+                    "firerate": "6.75",
+                    "magazinesize": "16",
+                    "reloadtime": "1.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "2b362a9-990f3fe-3ecf914-58a0ea9",
+                "name": "Guided Missile",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/guided-missile.png",
+                "stats": {
+                    "dps": "57.8",
+                    "hit_body": "77",
+                    "hit_head": "77",
+                    "firerate": "0.75",
+                    "magazinesize": "1",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "8374c66-8082bcc-a1dc185-e735427",
+                "name": "Guided Missile",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/guided-missile.png",
+                "stats": {
+                    "dps": "55.5",
+                    "hit_body": "74",
+                    "hit_head": "74",
+                    "firerate": "0.75",
+                    "magazinesize": "1",
+                    "reloadtime": "2.4",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "44999df-a430409-221ad9f-4a03062",
+                "name": "Rocket Launcher",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/rocket-launcher.png",
+                "stats": {
+                    "dps": "90.8",
+                    "hit_body": "121",
+                    "hit_head": "121",
+                    "firerate": "0.75",
+                    "magazinesize": "1",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "11efb28-faa671b-2b5193e-b2df7d6",
+                "name": "Rocket Launcher",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/rocket-launcher.png",
+                "stats": {
+                    "dps": "87",
+                    "hit_body": "116",
+                    "hit_head": "116",
+                    "firerate": "0.75",
+                    "magazinesize": "1",
+                    "reloadtime": "2.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f5fbc30-00d409a-83eda7f-e054973",
+                "name": "Rocket Launcher",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/rocket-launcher.png",
+                "stats": {
+                    "dps": "82.5",
+                    "hit_body": "110",
+                    "hit_head": "110",
+                    "firerate": "0.75",
+                    "magazinesize": "1",
+                    "reloadtime": "2.7",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "4d06260-f76737d-a14c0d9-fa66e17",
+                "name": "Grenade Launcher",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/grenade-launcher.png",
+                "stats": {
+                    "dps": "110",
+                    "hit_body": "110",
+                    "hit_head": "110",
+                    "firerate": "1",
+                    "magazinesize": "6",
+                    "reloadtime": "2.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "c3ca330-85c27e8-0378417-f36e441",
+                "name": "Grenade Launcher",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/grenade-launcher.png",
+                "stats": {
+                    "dps": "105",
+                    "hit_body": "105",
+                    "hit_head": "105",
+                    "firerate": "1",
+                    "magazinesize": "6",
+                    "reloadtime": "2.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "338cc80-c01fecd-6d396c9-ff74629",
+                "name": "Grenade Launcher",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/grenade-launcher.png",
+                "stats": {
+                    "dps": "100",
+                    "hit_body": "100",
+                    "hit_head": "100",
+                    "firerate": "1",
+                    "magazinesize": "6",
+                    "reloadtime": "3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "5f47ff4-55049db-1c60502-c9cb15e",
+                "name": "Minigun",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/minigun.png",
+                "stats": {
+                    "dps": "228",
+                    "hit_body": "19",
+                    "hit_head": "47.5",
+                    "firerate": "12",
+                    "magazinesize": "0",
+                    "reloadtime": "4.5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "48919a4-f903611-568574e-b817eef",
+                "name": "Minigun",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/minigun.png",
+                "stats": {
+                    "dps": "216",
+                    "hit_body": "18",
+                    "hit_head": "45",
+                    "firerate": "12",
+                    "magazinesize": "0",
+                    "reloadtime": "4.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f085b7f-560c8fb-51d09d3-ffdb0f0",
+                "name": "Light Machine Gun",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/light-machine-gun.png",
+                "stats": {
+                    "dps": "208",
+                    "hit_body": "26",
+                    "hit_head": "52",
+                    "firerate": "8",
+                    "magazinesize": "100",
+                    "reloadtime": "4.8",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "57b6951-e802207-e489192-cab1c10",
+                "name": "Light Machine Gun",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/light-machine-gun.png",
+                "stats": {
+                    "dps": "200",
+                    "hit_body": "25",
+                    "hit_head": "50",
+                    "firerate": "8",
+                    "magazinesize": "100",
+                    "reloadtime": "5",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "c5c6770-1b1db37-d7f8a63-1ad6ff6",
+                "name": "Assault Rifle (Scoped)",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-scoped.png",
+                "stats": {
+                    "dps": "84",
+                    "hit_body": "24",
+                    "hit_head": "48",
+                    "firerate": "3.5",
+                    "magazinesize": "20",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "073adbd-2171fe5-b4b6d2c-fa225c5",
+                "name": "Assault Rifle (Scoped)",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-scoped.png",
+                "stats": {
+                    "dps": "80.5",
+                    "hit_body": "23",
+                    "hit_head": "46",
+                    "firerate": "3.5",
+                    "magazinesize": "20",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "eec7aa2-8eaa027-8683c2b-1784726",
+                "name": "Assault Rifle (Burst)",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-burst.png",
+                "stats": {
+                    "dps": "52.5",
+                    "hit_body": "30",
+                    "hit_head": "60",
+                    "firerate": "1.75",
+                    "magazinesize": "30",
+                    "reloadtime": "2.6",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "0bc34c6-fb23db7-f7fefe8-cb48865",
+                "name": "Assault Rifle (Burst)",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-burst.png",
+                "stats": {
+                    "dps": "50.8",
+                    "hit_body": "29",
+                    "hit_head": "58",
+                    "firerate": "1.75",
+                    "magazinesize": "30",
+                    "reloadtime": "2.7",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "f8be381-7f2d1e2-bd8a6e4-c7a3289",
+                "name": "Assault Rifle (Burst)",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-burst.png",
+                "stats": {
+                    "dps": "47.2",
+                    "hit_body": "27",
+                    "hit_head": "54",
+                    "firerate": "1.75",
+                    "magazinesize": "30",
+                    "reloadtime": "2.9",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "17617bd-fe663aa-107ae85-025b379",
+                "name": "Assault Rifle (SCAR)",
+                "rarity": "legendary",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-scar.png",
+                "stats": {
+                    "dps": "198",
+                    "hit_body": "36",
+                    "hit_head": "72",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "4840f21-ae71c90-3fe408f-8cae164",
+                "name": "Assault Rifle (SCAR)",
+                "rarity": "epic",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-scar.png",
+                "stats": {
+                    "dps": "192.5",
+                    "hit_body": "35",
+                    "hit_head": "70",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.1",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "2dfcca3-0b33306-fa6d53e-255b542",
+                "name": "Assault Rifle (M4)",
+                "rarity": "rare",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-m4.png",
+                "stats": {
+                    "dps": "181.5",
+                    "hit_body": "33",
+                    "hit_head": "66",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "bf92390-87a7322-bfe0656-d063206",
+                "name": "Assault Rifle (M4)",
+                "rarity": "uncommon",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-m4.png",
+                "stats": {
+                    "dps": "170.5",
+                    "hit_body": "31",
+                    "hit_head": "62",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.2",
+                    "ammocost": "1"
+                }
+            },
+            {
+                "identifier": "432db6e-dff3e0f-0f72a48-bc3e047",
+                "name": "Assault Rifle (M4)",
+                "rarity": "common",
+                "vaulted": 0,
+                "image": "https://fortnite-public-files.theapinetwork.com/weapons/assault-rifle-m4.png",
+                "stats": {
+                    "dps": "165",
+                    "hit_body": "30",
+                    "hit_head": "60",
+                    "firerate": "5.5",
+                    "magazinesize": "30",
+                    "reloadtime": "2.3",
+                    "ammocost": "1"
+                }
+            }
+        ]
+    }
+}

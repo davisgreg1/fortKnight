@@ -1,0 +1,34 @@
+{
+  "data": [
+      {
+          "itemId": "2fad344-834e456-dcf643d-91f9712",
+          "lastUpdate": 1553386039,
+          "store": {
+              "isFeatured": true,
+              "isRefundable": true,
+              "cost": "1500"
+          },
+          "item": {
+              "name": "Beastmode",
+              "description": "Gassed up and ready to roar.",
+              "type": "outfit",
+              "rarity": "epic",
+              "images": {
+                  "icon": "https://fortnite-public-files.theapinetwork.com/outfit/c567e52c290292c99c7c9b44dd36827c.png",
+                  "featured": "https://fortnite-public-files.theapinetwork.com/featured/2fad344-834e456-dcf643d-91f9712.png",
+                  "background": "https://fortnite-public-files.theapinetwork.com/image/2fad344-834e456-dcf643d-91f9712.png",
+                  "information": "https://fortnite-public-files.theapinetwork.com/image/2fad344-834e456-dcf643d-91f9712/icon.png"
+              },
+              "obtained_type": "vbucks",
+              "ratings": {
+                  "avgStars": 3.66,
+                  "totalPoints": 597,
+                  "numberVotes": 163
+              }
+          }
+      },
+      {
+          /*/ SAME STRUCTURE AS ABOVE /*/
+      }
+  ]
+}
