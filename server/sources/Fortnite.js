@@ -19,6 +19,7 @@ export class FortniteAPI extends RESTDataSource {
     const { data } = await this.get(API_ENDPOINTS.BR_NEWS)
     return data.map(({ body, image, time, title }) => ({
       body,
+      image,
       time,
       title
     }))
@@ -28,6 +29,7 @@ export class FortniteAPI extends RESTDataSource {
     const { data } = await this.get(API_ENDPOINTS.STW_NEWS)
     return data.map(({ body, image, time, title }) => ({
       body,
+      image,
       time,
       title
     }))
