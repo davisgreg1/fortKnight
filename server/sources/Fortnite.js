@@ -17,7 +17,7 @@ export class FortniteAPI extends RESTDataSource {
 
   async getBattleRoyaleNews () {
     const { data } = await this.get(API_ENDPOINTS.BR_NEWS)
-    return data.map(({ body, time, title }) => ({
+    return data.map(({ body, image, time, title }) => ({
       body,
       time,
       title
@@ -26,7 +26,7 @@ export class FortniteAPI extends RESTDataSource {
 
   async getSaveTheWorldNews () {
     const { data } = await this.get(API_ENDPOINTS.STW_NEWS)
-    return data.map(({ body, time, title }) => ({
+    return data.map(({ body, image, time, title }) => ({
       body,
       time,
       title
