@@ -1,7 +1,7 @@
 const { RESTDataSource } = require('apollo-datasource-rest')
 
 const API_ENDPOINTS = {
-  BR_NEWS: '',
+  BR_NEWS: 'br_motd/get',
   STW_NEWS: 'stw_motd/get'
 }
 
