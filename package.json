@@ -5,6 +5,9 @@
   "repository": "https://github.com/davisgreg1/fortKnight.git",
   "author": "Andrew Usher <andrewusher00@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start":  "node -r esm index.js"
+  },
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-standard": "^14.1.0",
