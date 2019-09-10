@@ -1,0 +1,33 @@
+{
+  "name": "fortknight",
+  "version": "1.0.0",
+  "description": "Playing with fort-nite API with a friend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisgreg1/fortKnight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisgreg1/fortKnight/issues"
+  },
+  "homepage": "https://github.com/davisgreg1/fortKnight#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.0",
+    "apollo-boost": "^0.4.4",
+    "axios": "^0.19.0",
+    "graphql": "^14.5.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
