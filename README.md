@@ -13,3 +13,10 @@ Playing with fort-nite API with a friend.
  1. one feature
  2. two features
  3. three features!
+
+# What techs did we use?
+ 1. React
+ 2. Parcel
+ 3. Graphql
+ 4. Apollo
+ 5. esm
