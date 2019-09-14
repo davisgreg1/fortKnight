@@ -141,7 +141,7 @@ var _reactHooks = require("@apollo/react-hooks");
 
 var _apolloBoost = require("apollo-boost");
 
-require("./styles.scss");
+var _styles = _interopRequireDefault(require("./styles.scss"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -168,15 +168,15 @@ function Weapons() {
   if (loading) return _react.default.createElement("p", null, "Loading...");
   if (error) return _react.default.createElement("p", null, "Error :(");
   return _react.default.createElement("div", {
-    className: "div"
+    className: _styles.default.div
   }, data.getAllWeapons.map(function (weapon) {
     return _react.default.createElement("div", {
       key: weapon.identifier
     }, _react.default.createElement("p", {
-      className: "p__name"
+      className: _styles.default.p__name
     }, weapon.name), " ", _react.default.createElement("img", {
       src: weapon.image,
-      className: "img"
+      className: _styles.default.img
     }));
   }));
 }
@@ -208,7 +208,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58560" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63562" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

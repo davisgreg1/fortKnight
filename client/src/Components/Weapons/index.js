@@ -1,7 +1,7 @@
 import React from 'react';
 import {useQuery} from '@apollo/react-hooks';
 import {gql} from "apollo-boost";
-import './styles.scss';
+import styles from './styles.scss';
 
 const WEAPONS = gql `
 {
@@ -25,11 +25,11 @@ export default function Weapons() {
   if (error) 
     return <p>Error :(</p>;
   return (
-    <div className="div">
+    <div className={styles.div}>
       {data
         .getAllWeapons
         .map(weapon => <div key={weapon.identifier}>
-          <p className="p__name">{weapon.name}</p>{" "}<img src={weapon.image} className="img"/></div>)
+          <p className={styles.p__name}>{weapon.name}</p>{" "}<img src={weapon.image} className={styles.img}/></div>)
 }
     </div>
   )
