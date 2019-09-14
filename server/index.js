@@ -43,9 +43,9 @@ const resolvers = {
     battleRoyaleNews: async (_source, _args, { dataSources }) => dataSources.FortniteAPI.getBattleRoyaleNews(),
 
     saveTheWorldNews: async (_source, _args, { dataSources }) => dataSources.FortniteAPI.getSaveTheWorldNews(),
-    
-    getAllWeapons: async (_source, _args, { dataSources }) => 
-    dataSources.FortniteAPI.getAllWeapons()
+
+    getAllWeapons: async (_source, _args, { dataSources }) =>
+      dataSources.FortniteAPI.getAllWeapons()
   }
 }
 

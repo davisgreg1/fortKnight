@@ -6,7 +6,9 @@
   "author": "Andrew Usher <andrewusher00@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start":  "node -r esm index.js"
+    "start": "node -r esm index.js",
+    "lint": "eslint server/index.js server/sources/**/*.js client/src/**/*.js",
+    "lint:fix": "yarn lint --fix"
   },
   "devDependencies": {
     "eslint": "^6.3.0",

@@ -1,9 +1,9 @@
-import React from 'react';
-import {useQuery} from '@apollo/react-hooks';
-import {gql} from "apollo-boost";
-import styles from './styles.scss';
+import React from 'react'
+import { useQuery } from '@apollo/react-hooks'
+import { gql } from 'apollo-boost'
+import styles from './styles.scss'
 
-const WEAPONS = gql `
+const WEAPONS = gql`
 {
   getAllWeapons {
     identifier,
@@ -19,12 +19,10 @@ const WEAPONS = gql `
 }
 `
 
-export default function Weapons() {
-  const {loading, error, data} = useQuery(WEAPONS);
-  if (loading) 
-    return <p>Loading...</p>;
-  if (error) 
-    return <p>Error :(</p>;
+export default function Weapons () {
+  const { loading, error, data } = useQuery(WEAPONS)
+  if (loading) { return <p>Loading...</p> }
+  if (error) { return <p>Error :(</p> }
   return (
     <div className={styles.weapons}>
       {data
@@ -35,8 +33,8 @@ export default function Weapons() {
             <div className={styles.weapons_p_name}>
               {weapon.name}
             </div>
-          </div>{" "}<img src={weapon.image} className={styles.img}/></div>)
-}
+          </div>{' '}<img src={weapon.image} className={styles.img}/></div>)
+      }
     </div>
   )
 }
