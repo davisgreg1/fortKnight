@@ -126,8 +126,9 @@ module.exports = {
   "weapons": "_weapons_4b0cd",
   "div-button": "_div-button_4b0cd",
   "img": "_img_4b0cd",
-  "weapons_p_name": "_weapons_p_name_4b0cd",
-  "weapon_div_weaponItem": "_weapon_div_weaponItem_4b0cd"
+  "weapons_div_info": "_weapons_div_info_4b0cd",
+  "weapon_div_weaponItem": "_weapon_div_weaponItem_4b0cd",
+  "weapon_p_rarity": "_weapon_p_rarity_4b0cd"
 };
 },{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../src/Components/Weapons/index.js":[function(require,module,exports) {
 "use strict";
@@ -175,9 +176,13 @@ function Weapons() {
     return _react.default.createElement("div", {
       key: weapon.identifier,
       className: _styles.default.weapon_div_weaponItem
+    }, _react.default.createElement("div", {
+      className: _styles.default.weapons_div_info
     }, _react.default.createElement("p", {
+      className: _styles.default.weapon_p_rarity
+    }, weapon.rarity), _react.default.createElement("div", {
       className: _styles.default.weapons_p_name
-    }, weapon.rarity, " ", " ", " ", weapon.name), " ", _react.default.createElement("img", {
+    }, weapon.name)), " ", _react.default.createElement("img", {
       src: weapon.image,
       className: _styles.default.img
     }));
@@ -211,7 +216,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55447" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63761" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

@@ -26,7 +26,7 @@
   max-height: 200px;
 }
 
-._weapons_p_name_4b0cd {
+._weapons_div_info_4b0cd {
   color: blue;
 }
 
@@ -36,6 +36,12 @@
   display: flex;
   border: solid;
   margin: 16px;
+  padding: 16px;
+}
+
+._weapon_p_rarity_4b0cd {
+  font-weight: bold;
+  text-transform: capitalize;
 }
 
 /*# sourceMappingURL=/Weapons.ae2b7807.css.map */

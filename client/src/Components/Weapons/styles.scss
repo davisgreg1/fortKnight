@@ -16,7 +16,7 @@
   max-height: 200px;
 }
 
-.weapons_p_name {
+.weapons_div_info {
   color: blue;
 }
 
@@ -24,4 +24,10 @@
   display: flex;
   border: solid;
   margin: 16px;
+  padding: 16px;
+}
+
+.weapon_p_rarity {
+  font-weight: bold;
+  text-transform: capitalize;
 }

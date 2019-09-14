@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.home}>
       <p className={styles.home_p_text}>
-        Welcome Home
+        Fort Knight
       </p>
     </div>
   )
