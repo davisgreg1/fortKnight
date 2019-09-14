@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"public.e31bb0bc.css","sourceRoot":"../public"}
+{"version":3,"sources":["../src/Components/NavBar/styles.scss"],"names":[],"mappings":"AAAA;EACE,oBAAA;EAAA,oBAAA;EAAA,aAAA;EACA,uBAAA;EACA,YAAA","file":"public.e31bb0bc.css","sourceRoot":"../public","sourcesContent":[".nav {\n  display: flex;\n  background-color: black;\n  color: white;\n}\n"]}

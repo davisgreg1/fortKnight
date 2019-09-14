@@ -48902,7 +48902,9 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-module.exports = {};
+module.exports = {
+  "nav": "_nav_c8679"
+};
 },{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../src/Components/NavBar/index.js":[function(require,module,exports) {
 "use strict";
 
@@ -48915,20 +48917,31 @@ var _react = _interopRequireDefault(require("react"));
 
 var _reactRouterDom = require("react-router-dom");
 
-require("./styles.scss");
+var _styles = _interopRequireDefault(require("./styles.scss"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+var navBarItems = [{
+  id: 1,
+  title: "Home",
+  to: "/",
+  className: "nav-link"
+}, {
+  id: 2,
+  title: "Weapons",
+  to: "/weapons",
+  className: "nav-link"
+}];
+
 function NavBar() {
   return _react.default.createElement("nav", {
-    clasName: "nav"
-  }, _react.default.createElement(_reactRouterDom.Link, {
-    to: "/",
-    className: "nav-link"
-  }, "Home"), _react.default.createElement(_reactRouterDom.Link, {
-    to: "/weapons",
-    className: "nav-link"
-  }, "Weapons"));
+    clasName: _styles.default.nav
+  }, navBarItems.map(function (item) {
+    return _react.default.createElement(_reactRouterDom.Link, {
+      to: item.to,
+      className: _styles.default[item.className]
+    }, item.title);
+  }));
 }
 },{"react":"../node_modules/react/index.js","react-router-dom":"../node_modules/react-router-dom/esm/react-router-dom.js","./styles.scss":"../src/Components/NavBar/styles.scss"}],"../node_modules/parcel-bundler/src/builtins/bundle-loader.js":[function(require,module,exports) {
 var getBundleURL = require('./bundle-url').getBundleURL;
@@ -49086,9 +49099,11 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 /* eslint-disable */
 require('dotenv').config();
 
-(0, _reactDom.render)(_react.default.createElement(_App.default, null), document.getElementById('root')); // if (module.hot) {
-//   module.hot.accept();
-// }
+(0, _reactDom.render)(_react.default.createElement(_App.default, null), document.getElementById('root'));
+
+if (module.hot) {
+  module.hot.accept();
+}
 },{"dotenv":"../node_modules/dotenv/lib/main.js","react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","../src/App":"../src/App.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -49117,7 +49132,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63562" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56953" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
