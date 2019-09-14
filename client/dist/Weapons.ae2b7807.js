@@ -123,9 +123,11 @@ var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
 module.exports = {
+  "weapons": "_weapons_4b0cd",
   "div-button": "_div-button_4b0cd",
   "img": "_img_4b0cd",
-  "p__name": "_p__name_4b0cd"
+  "weapons_p_name": "_weapons_p_name_4b0cd",
+  "weapon_div_weaponItem": "_weapon_div_weaponItem_4b0cd"
 };
 },{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../src/Components/Weapons/index.js":[function(require,module,exports) {
 "use strict";
@@ -146,7 +148,7 @@ var _styles = _interopRequireDefault(require("./styles.scss"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function _templateObject() {
-  var data = _taggedTemplateLiteral(["\n{\n  getAllWeapons {\n    identifier,\n    name,\n    image,\n    stats {\n      hit_body,\n      hit_head,\n      reloadtime\n    }\n  }\n}\n"]);
+  var data = _taggedTemplateLiteral(["\n{\n  getAllWeapons {\n    identifier,\n    name,\n    rarity,\n    image,\n    stats {\n      hit_body,\n      hit_head,\n      reloadtime\n    }\n  }\n}\n"]);
 
   _templateObject = function _templateObject() {
     return data;
@@ -168,13 +170,14 @@ function Weapons() {
   if (loading) return _react.default.createElement("p", null, "Loading...");
   if (error) return _react.default.createElement("p", null, "Error :(");
   return _react.default.createElement("div", {
-    className: _styles.default.div
+    className: _styles.default.weapons
   }, data.getAllWeapons.map(function (weapon) {
     return _react.default.createElement("div", {
-      key: weapon.identifier
+      key: weapon.identifier,
+      className: _styles.default.weapon_div_weaponItem
     }, _react.default.createElement("p", {
-      className: _styles.default.p__name
-    }, weapon.name), " ", _react.default.createElement("img", {
+      className: _styles.default.weapons_p_name
+    }, weapon.rarity, " ", " ", " ", weapon.name), " ", _react.default.createElement("img", {
       src: weapon.image,
       className: _styles.default.img
     }));
@@ -208,7 +211,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56953" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55447" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

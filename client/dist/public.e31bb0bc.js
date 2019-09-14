@@ -48903,7 +48903,8 @@ var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
 module.exports = {
-  "nav": "_nav_c8679"
+  "nav": "_nav_c8679",
+  "nav-link": "_nav-link_c8679"
 };
 },{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../src/Components/NavBar/index.js":[function(require,module,exports) {
 "use strict";
@@ -48935,7 +48936,7 @@ var navBarItems = [{
 
 function NavBar() {
   return _react.default.createElement("nav", {
-    clasName: _styles.default.nav
+    className: _styles.default.nav
   }, navBarItems.map(function (item) {
     return _react.default.createElement(_reactRouterDom.Link, {
       to: item.to,
@@ -49132,7 +49133,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56953" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55447" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

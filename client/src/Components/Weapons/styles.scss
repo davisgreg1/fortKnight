@@ -1,3 +1,10 @@
+.weapons {
+  display: flex;
+  flex-flow: wrap;
+  align-content: center;
+  justify-content: space-between;
+}
+
 .div-button {
   display: flex;
   justify-content: center;
@@ -5,10 +12,16 @@
 }
 
 .img {
-  width: 250px;
-  height: 250px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
-.p__name {
+.weapons_p_name {
   color: blue;
+}
+
+.weapon_div_weaponItem {
+  display: flex;
+  border: solid;
+  margin: 16px;
 }
