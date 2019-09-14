@@ -123,7 +123,8 @@ var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
 module.exports = {
-  "div": "_div_39f65"
+  "home": "_home_39f65",
+  "home_p_text": "_home_p_text_39f65"
 };
 },{"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../src/Components/Home/index.js":[function(require,module,exports) {
 "use strict";
@@ -141,8 +142,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function Home() {
   return _react.default.createElement("div", {
-    className: _styles.default.div
-  }, "Welcome Home");
+    className: _styles.default.home
+  }, _react.default.createElement("p", {
+    className: _styles.default.home_p_text
+  }, "Welcome Home"));
 }
 },{"react":"../node_modules/react/index.js","./styles.scss":"../src/Components/Home/styles.scss"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
@@ -172,7 +175,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56953" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55447" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

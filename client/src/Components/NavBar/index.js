@@ -18,7 +18,7 @@ const navBarItems = [
 
 export default function NavBar() {
   return (
-    <nav clasName={styles.nav}>
+    <nav className={styles.nav}>
       {navBarItems.map(item => {
         return (
           <Link to={item.to} className={styles[item.className]}>{item.title}</Link>

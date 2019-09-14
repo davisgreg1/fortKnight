@@ -1,5 +1,23 @@
 .nav {
   display: flex;
+  position: sticky;
+  top: 0px;
+  border-radius: 6px;
+  box-shadow: 5px 10px 18px red;
   background-color: black;
+}
+
+.nav-link {
+  font-size: 12px;
   color: white;
+  text-decoration: none;
+  margin: 16px;
+  padding: 16px;
+  user-select: none;
+}
+
+.nav-link:hover, .nav-link:active, .nav-link:focus {
+  font-size: 18px;
+  outline: none;
+  border: none;
 }

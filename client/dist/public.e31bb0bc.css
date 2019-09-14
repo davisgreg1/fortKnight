@@ -2,8 +2,31 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  border-radius: 6px;
+  -webkit-box-shadow: 5px 10px 18px red;
+          box-shadow: 5px 10px 18px red;
   background-color: black;
+}
+
+._nav-link_c8679 {
+  font-size: 12px;
   color: white;
+  text-decoration: none;
+  margin: 16px;
+  padding: 16px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+._nav-link_c8679:hover, ._nav-link_c8679:active, ._nav-link_c8679:focus {
+  font-size: 18px;
+  outline: none;
+  border: none;
 }
 
 /*# sourceMappingURL=/public.e31bb0bc.css.map */
