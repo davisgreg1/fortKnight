@@ -1,6 +1,7 @@
 .nav {
   display: flex;
   position: sticky;
+  height: 80px;
   top: 0px;
   border-radius: 6px;
   box-shadow: 5px 10px 18px red;
@@ -8,7 +9,6 @@
 }
 
 .nav-link {
-  font-size: 12px;
   color: white;
   text-decoration: none;
   margin: 16px;
@@ -17,7 +17,7 @@
 }
 
 .nav-link:hover, .nav-link:active, .nav-link:focus {
-  font-size: 18px;
+  font-size: 20px;
   outline: none;
   border: none;
 }

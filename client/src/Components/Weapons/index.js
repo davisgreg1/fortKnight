@@ -30,7 +30,12 @@ export default function Weapons() {
       {data
         .getAllWeapons
         .map(weapon => <div key={weapon.identifier} className={styles.weapon_div_weaponItem}>
-          <p className={styles.weapons_p_name}>{weapon.rarity} {" "} {weapon.name}</p>{" "}<img src={weapon.image} className={styles.img}/></div>)
+          <div className={styles.weapons_div_info}>
+            <p className={styles.weapon_p_rarity}>{weapon.rarity}</p>
+            <div className={styles.weapons_p_name}>
+              {weapon.name}
+            </div>
+          </div>{" "}<img src={weapon.image} className={styles.img}/></div>)
 }
     </div>
   )
