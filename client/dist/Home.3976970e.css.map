@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/Components/Home/styles.scss"],"names":[],"mappings":"AAAA;EACE,oBAAA;EAAA,oBAAA;EAAA,aAAA;EACA,UAAA","file":"Home.3976970e.css","sourceRoot":"../public","sourcesContent":[".div {\n  display: flex;\n  color: red;\n}\n"]}

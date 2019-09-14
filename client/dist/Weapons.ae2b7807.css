@@ -1,0 +1,20 @@
+._div-button_4b0cd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: burlywood;
+}
+
+._img_4b0cd {
+  width: 250px;
+  height: 250px;
+}
+
+._p__name_4b0cd {
+  color: red;
+}
+
+/*# sourceMappingURL=/Weapons.ae2b7807.css.map */
