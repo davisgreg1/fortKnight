@@ -22,4 +22,4 @@ dist
 .vscode/
 
 # Parcel cache
-.caceh
+.cache
