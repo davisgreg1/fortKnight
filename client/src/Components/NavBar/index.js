@@ -12,7 +12,12 @@ const navBarItems = [
     title: 'Weapons',
     to: '/weapons',
     className: 'nav-link'
-  }
+  },
+  {
+    title: 'News',
+    to: '/news',
+    className: 'nav-link'
+  },
 ]
 
 export default function NavBar () {

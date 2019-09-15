@@ -1,6 +1,7 @@
 import React, {useState, Fragment} from 'react';
 import {useQuery} from '@apollo/react-hooks';
 import {gql} from 'apollo-boost';
+import {CSSTransition, TransitionGroup} from 'react-transition-group';
 import styles from './styles.scss';
 
 const WEAPONS = gql `
@@ -8,6 +9,7 @@ const WEAPONS = gql `
   getAllWeapons {
     identifier,
     name,
+    vaulted,
     rarity,
     image,
     stats {
@@ -60,16 +62,25 @@ export default function Weapons() {
   }
 
   const filterWeapons = (arr, rarity) => arr.filter(weapon => weapon.rarity === rarity);
-  const renderWeapons = weaponsArr => <div className={styles.weapons}>
-    {weaponsArr.map(weapon => <div key={weapon.identifier} className={styles.weapon_div_weaponItem}>
-      <div className={styles.weapons_div_info}>
-        <p className={styles.weapon_p_rarity}>{weapon.rarity}</p>
-        <div className={styles.weapons_p_name}>
-          {weapon.name}
-        </div>
-      </div>{' '}<img src={weapon.image} className={styles.img}/></div>)
+  const renderWeapons = weaponsArr => {
+    return (
+      <TransitionGroup className={styles.weapons}>
+        {weaponsArr.map(weapon => <CSSTransition classNames="weapons" key={weapon.identifier} timeout={100}>
+          <div className={styles["weapons-div-weaponItem"]}>
+            <div className={styles["weapons-div-info"]}>
+              <p className={styles["weapons-p-rarity"]}>{weapon.rarity}</p>
+              <p className={styles["weapons-p-color-red"]}>{weapon.vaulted === 1
+                  ? "Vaulted"
+                  : ''}</p>
+              <div className={styles["weapons-p-name"]}>
+                {weapon.name}
+              </div>
+            </div>{' '}<img src={weapon.image} className={styles["weapons-img"]}/></div>
+        </CSSTransition>)
 }
-  </div>
+      </TransitionGroup>
+    )
+  }
 
   return (
     <Fragment>
@@ -77,60 +88,61 @@ export default function Weapons() {
         <button
           className={styles.weapon_button}
           onClick={() => {
+          setCommonWeapons(filterWeapons(data.getAllWeapons, 'common'));
+          setCommonWeaponsShowing(true);
+          setLegendaryWeaponsShowing(false);
+          setRareWeaponsShowing(false);
+          setEpicWeaponsShowing(false);
+          setUncommonWeaponsShowing(false);
+        }}>Common Weapons</button>
+        
+        <button
+          className={styles.weapon_button}
+          onClick={() => {
+          setUncommonWeapons(filterWeapons(data.getAllWeapons, 'uncommon'));
+          setUncommonWeaponsShowing(true);
+          setLegendaryWeaponsShowing(false);
+          setCommonWeaponsShowing(false);
+          setRareWeaponsShowing(false);
+          setEpicWeaponsShowing(false);
+        }}>Uncommon Weapons</button>
+        <button
+          className={styles.weapon_button}
+          onClick={() => {
           setLegendaryWeapons(filterWeapons(data.getAllWeapons, 'legendary'));
           setLegendaryWeaponsShowing(true);
-          setEpicWeaponsShowing(false)
-          setRareWeaponsShowing(false)
-          setCommonWeaponsShowing(false)
-          setUncommonWeaponsShowing(false)
+          setEpicWeaponsShowing(false);
+          setRareWeaponsShowing(false);
+          setCommonWeaponsShowing(false);
+          setUncommonWeaponsShowing(false);
         }}>Legendary Weapons</button>
         <button
           className={styles.weapon_button}
           onClick={() => {
           setEpicWeapons(filterWeapons(data.getAllWeapons, 'epic'));
           setEpicWeaponsShowing(true);
-          setLegendaryWeaponsShowing(false)
-          setRareWeaponsShowing(false)
-          setCommonWeaponsShowing(false)
-          setUncommonWeaponsShowing(false)
+          setLegendaryWeaponsShowing(false);
+          setRareWeaponsShowing(false);
+          setCommonWeaponsShowing(false);
+          setUncommonWeaponsShowing(false);
         }}>Epic Weapons</button>
         <button
           className={styles.weapon_button}
           onClick={() => {
           setRareWeapons(filterWeapons(data.getAllWeapons, 'rare'));
           setRareWeaponsShowing(true);
-          setLegendaryWeaponsShowing(false)
-          setEpicWeaponsShowing(false)
-          setCommonWeaponsShowing(false)
-          setUncommonWeaponsShowing(false)
+          setLegendaryWeaponsShowing(false);
+          setEpicWeaponsShowing(false);
+          setCommonWeaponsShowing(false);
+          setUncommonWeaponsShowing(false);
         }}>Rare Weapons</button>
-        <button
-          className={styles.weapon_button}
-          onClick={() => {
-          setCommonWeapons(filterWeapons(data.getAllWeapons, 'common'));
-          setCommonWeaponsShowing(true);
-          setLegendaryWeaponsShowing(false)
-          setRareWeaponsShowing(false)
-          setEpicWeaponsShowing(false)
-          setUncommonWeaponsShowing(false)
-        }}>Common Weapons</button>
-        <button
-          className={styles.weapon_button}
-          onClick={() => {
-          setUncommonWeapons(filterWeapons(data.getAllWeapons, 'uncommon'));
-          setUncommonWeaponsShowing(true);
-          setLegendaryWeaponsShowing(false)
-          setCommonWeaponsShowing(false)
-          setRareWeaponsShowing(false)
-          setEpicWeaponsShowing(false)
-        }}>Uncommon Weapons</button>
-      </div>
 
-      {legendaryWeaponsShowing && renderWeapons(legendaryWeapons)}
-      {epicWeaponsShowing && renderWeapons(epicWeapons)}
-      {rareWeaponsShowing && renderWeapons(rareWeapons)}
+      </div>
       {commonWeaponsShowing && renderWeapons(commonWeapons)}
       {uncommonWeaponsShowing && renderWeapons(uncommonWeapons)}
+      {epicWeaponsShowing && renderWeapons(epicWeapons)}
+      {legendaryWeaponsShowing && renderWeapons(legendaryWeapons)}
+      {rareWeaponsShowing && renderWeapons(rareWeapons)}
     </Fragment>
   )
 };

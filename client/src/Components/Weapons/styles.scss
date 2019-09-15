@@ -23,23 +23,46 @@
   font-size: 16px;
 }
 
-.img {
+.weapons-img {
   max-width: 200px;
   max-height: 200px;
 }
 
-.weapons_div_info {
+.weapons-div-info {
   color: blue;
 }
 
-.weapon_div_weaponItem {
+.weapons-div-weaponItem {
   display: flex;
   border: solid;
   margin: 16px;
   padding: 16px;
 }
 
-.weapon_p_rarity {
+.weapons-p-rarity {
   font-weight: bold;
   text-transform: capitalize;
+}
+
+.weapons-p-name {
+  color: black;
+}
+
+.weapons-p-color-red {
+  color: red;
+}
+
+.weapons-enter {
+  opacity: 0;
+}
+.weapons-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
+.weapons-exit {
+  opacity: 1;
+}
+.weapons-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
 }
