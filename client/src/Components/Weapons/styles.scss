@@ -11,6 +11,18 @@
   background-color: burlywood;
 }
 
+.weapon_button_nav {
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+  position: sticky;
+  top: 60px;
+}
+
+.weapon_button {
+  font-size: 16px;
+}
+
 .img {
   max-width: 200px;
   max-height: 200px;
