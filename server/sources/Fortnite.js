@@ -37,7 +37,7 @@ export class FortniteAPI extends RESTDataSource {
   }
 
   async getAllWeapons () {
-    const { data } = await this.get(API_ENDPOINTS.WEAPONS)
+    const  data = await this.get(API_ENDPOINTS.WEAPONS)
     return data.entries.map(({ identifier, name, rarity, image, vaulted, stats }) => ({
       identifier,
       name,
