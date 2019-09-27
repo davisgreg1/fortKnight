@@ -1,12 +1,25 @@
 import React from 'react'
-import styles from './styles.scss'
+import styled from 'styled-components'
+
+const HomeContainer = styled.section`
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    display: flex;
+    align-self: center;
+    color: red;
+  }
+`
 
 export default function Home () {
   return (
-    <div className={styles.home}>
-      <p className={styles.home_p_text}>
+    <HomeContainer>
+      <p>
         Fort Knight
       </p>
-    </div>
+    </HomeContainer>
   )
 }
