@@ -16,7 +16,7 @@
     "nodemon": "^1.19.2"
   },
   "scripts": {
-    "start": "node -r esm index.js",
+    "start": "nodemon -r esm index.js",
     "dev": "nodemon -r esm index.js"
   }
 }
